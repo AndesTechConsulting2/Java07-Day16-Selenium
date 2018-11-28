@@ -1,2 +1,2 @@
 # Java07-Day16-Selenium
-Waites, Locators, Selectors
+Waits, Locators, Selectors
